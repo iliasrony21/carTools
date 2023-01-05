@@ -14,7 +14,7 @@ const Header = () => {
       <div className='bg-[#FFD54C]  pt-3'>
         {/* first header start  */}
         <div className='top-header flex justify-between lg:ml-32  '>
-          <div className='top-header-one flex'>
+          <div className='top-header-one flex '>
             <span>
               Follow Us:{' '}
               <span className='lg:mr-4 lg:ml-2'>
@@ -31,14 +31,14 @@ const Header = () => {
               </span>
             </span>
           </div>
-          <div className='top-header-two lg:mr-52'>
+          <div className='top-header-two lg:mr-52 sm:mr-10'>
             <div className='flex '>
               <span>
-                <RiAccountCircleFill className='inline  h-4 w-4'></RiAccountCircleFill>
+                <RiAccountCircleFill className='inline h-6 w-6 '></RiAccountCircleFill>
               </span>
-              <select className='select select-bordered  w-20 bg-[#FFD54C] border-none '>
+              <select className='select select-bordered  select-sm  mt-[-2px]   bg-[#FFD54C] border-none '>
                 <option disabled selected>
-                  Account
+                  My Account
                 </option>
                 <option>Tiny Apple</option>
                 <option>Tiny Orange</option>
@@ -46,7 +46,7 @@ const Header = () => {
               </select>
               <hr className='hrv text-black' />
 
-              <select className='select select-bordered select-xs w-20 max-w-xs bg-[#FFD54C] border-none'>
+              <select className='select select-bordered select-sm  max-w-xs bg-[#FFD54C] border-none'>
                 <option disabled selected>
                   En-Gb
                 </option>
@@ -54,7 +54,7 @@ const Header = () => {
                 <option>Bangla</option>
               </select>
               <hr className='hrv text-black' />
-              <select className='select select-bordered select-xs w-xs max-w-xs bg-[#FFD54C] border-none'>
+              <select className='select select-bordered select-sm w-xs max-w-xs bg-[#FFD54C] border-none'>
                 <option disabled selected>
                   $ USD
                 </option>
