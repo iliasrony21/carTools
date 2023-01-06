@@ -4,6 +4,7 @@ import Banner from './Banner'
 import Products from './Products'
 import ServiceTitle from './ServiceTitle'
 import PartsNeed from './PartsNeed'
+import FlashDeal from './FlashDeal'
 
 const Home = () => {
   return (
@@ -13,6 +14,7 @@ const Home = () => {
       <ServiceTitle></ServiceTitle>
       <Products></Products>
       <PartsNeed></PartsNeed>
+      <FlashDeal></FlashDeal>
     </div>
   )
 }

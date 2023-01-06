@@ -9,12 +9,12 @@ const PartsNeed = () => {
           ALL KINDS OF PARTS THAT YOU <br />
           NEED CAN FIND HERE
         </h1>
-        <button className='btn btn-secondary text-black w-52 ml-[700px] mb-52'>
+        <button className='btn btn-secondary text-black w-52 ml-[640px] mb-52'>
           SHOP NOW
         </button>
       </div>
       <div className='image-part'>
-        <img src={bgcar} className='mt-[-150px] ml-60' alt='' />
+        <img src={bgcar} className='mt-[-150px] ml-60 mb-10' alt='' />
       </div>
     </div>
   )
