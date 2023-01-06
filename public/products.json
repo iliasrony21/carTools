@@ -1,0 +1,90 @@
+[
+    {
+        "name": "Auto Clutch & Brake",
+        "price": "165.00",
+        "description": "The purpose of a clutch brake is to stop or slow the input shaft from rotating, allowing the gears to mesh without grinding/clashing.",
+        "img":"https://htmldemo.net/lukas/lukas/assets/img/product/product-details-1.png",
+        "stocks":"10000"        
+
+    },
+    {
+        "name": "Leather Steering Wheel",
+        "price": "165.00",
+        "description": "The purpose of a clutch brake is to stop or slow the input shaft from rotating, allowing the gears to mesh without grinding/clashing.",
+        "img":"https://htmldemo.net/lukas/lukas/assets/img/product/product-details-3.png",
+        "stocks":"10000"        
+
+    },
+    {
+        "name": "7 inch Rims 8 Lug",
+        "price": "65.00",
+        "description": "The purpose of a clutch brake is to stop or slow the input shaft from rotating, allowing the gears to mesh without grinding/clashing.",
+        "img":"https://htmldemo.net/lukas/lukas/assets/img/product/product-details-2.png",
+        "stocks":"10000"        
+
+    },
+    {
+        "name": "car wheels",
+        "price": "95.00",
+        "description": "a wheel that has a tire and rim and hubcap; used to propel the car. fifth wheel, spare - an extra car wheel and tire for a four-wheel vehicle. hub ",
+        "img":"https://htmldemo.net/autima/autima/assets/img/product/product10.jpg",
+        "stocks":"10000"        
+
+    },
+    {
+        "name": "Mirror Glass",
+        "price": "65.00",
+        "description": "Automotive mirrors usually are made from first-surface chrome glass, meaning they're essentially ",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/d/d3/Wing_mirror.jpg",
+        "stocks":"10000"        
+
+    },
+    {
+        "name": "Car wipers",
+        "price": "25.00",
+        "description": " a long, thin piece of rubber on a metal frame that moves back and forth and pushes water, snow, etc., off the surface of the window at the front of a car, truck, etc.",
+        "img":"https://d1hv7ee95zft1i.cloudfront.net/custom/blog-post/original/how-to-properly-maintain-your-cars-wiper-blades-60e80b6940ba0.jpg",
+        "stocks":"10000"        
+
+    },
+    {
+        "name": "Car Gearstick",
+        "price": "65.00",
+        "description": "The term gear stick mostly refers to the shift lever of a manual transmission, while in an automatic transmission, a similar lever is known as a gear selector. ",
+        "img":"https://images.cars.com/cldstatic/wp-content/uploads/img-1684267413-1474136557144.jpg",
+        "stocks":"10000"        
+
+    },
+    {
+        "name": "Car sparkplugs",
+        "price": "35.00",
+        "description": "Buy replacement parts for your vehicle at every day low prices. Direct from Manufacturers. high quality products from Verified Wholesale Suppliers. customers satisfaction. good reputation.",
+        "img":"https://cdn.fiix.io/1/articles/sparkplugs.jpg",
+        "stocks":"10000"        
+
+    },
+    {
+        "name": "Car Engine",
+        "price": "365.00",
+        "description": "It is a complex machine built to convert heat from burning gas into the force that turns the road wheels.",
+        "img":"https://media.istockphoto.com/id/520977101/photo/car-engine.jpg?s=612x612&w=is&k=20&c=qyX4MSOaY98ee2NsFS4yGSXjqJjAGNytWGfHCwObkrA=",
+        "stocks":"10000"        
+
+    },
+    {
+        "name": "Car Bumper",
+        "price": "165.00",
+        "description": "A bumper is a bar attached transversely in front of or behind a car body to prevent contact between an obstruction and the car body or to cushion the shock of collision between vehicles.",
+        "img":"https://media.istockphoto.com/id/472463980/photo/three-different-car-bumpers-stacked.jpg?s=612x612&w=is&k=20&c=rNaEa3N8PtEzmY4f71SQXKrgYsubOXZL9fBzihEOTJM=",
+        "stocks":"14000"        
+
+    },
+    {
+        "name": "Car headlight",
+        "price": "97.00",
+        "description": "A headlamp is a lamp attached to the front of a vehicle to illuminate the road ahead. Headlamps are also often called headlights, but in the most precise usage",
+        "img":"https://motorheadbd.com/image/cache/catalog/products/2020/10/Allion-Projection-2005-6-1000x1000.jpg",
+        "stocks":"12000"        
+
+    }
+]

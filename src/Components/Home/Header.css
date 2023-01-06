@@ -3,3 +3,11 @@
   height: 15px;
   margin-top: 5px;
 }
+.buttons {
+  border: 2px solid gray;
+  border-radius: 25px;
+}
+.buttons:hover {
+  background-color: #f6d860;
+  color: black;
+}
