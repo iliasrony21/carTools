@@ -5,6 +5,7 @@ import Products from './Products'
 import ServiceTitle from './ServiceTitle'
 import PartsNeed from './PartsNeed'
 import FlashDeal from './FlashDeal'
+import FeaturedCategories from './FeaturedCategories'
 
 const Home = () => {
   return (
@@ -14,6 +15,7 @@ const Home = () => {
       <ServiceTitle></ServiceTitle>
       <Products></Products>
       <PartsNeed></PartsNeed>
+      <FeaturedCategories></FeaturedCategories>
       <FlashDeal></FlashDeal>
     </div>
   )
