@@ -4,7 +4,8 @@
         "price": "165.00",
         "description": "The purpose of a clutch brake is to stop or slow the input shaft from rotating, allowing the gears to mesh without grinding/clashing.",
         "img":"https://htmldemo.net/lukas/lukas/assets/img/product/product-details-1.png",
-        "stocks":"10000"        
+        "stocks":"10000",
+        "catagories":"Brake Parts"        
 
     },
     {
@@ -12,7 +13,8 @@
         "price": "165.00",
         "description": "The purpose of a clutch brake is to stop or slow the input shaft from rotating, allowing the gears to mesh without grinding/clashing.",
         "img":"https://htmldemo.net/lukas/lukas/assets/img/product/product-details-3.png",
-        "stocks":"10000"        
+        "stocks":"10000",
+        "catagories":"Wheels and Tires"        
 
     },
     {
@@ -20,7 +22,8 @@
         "price": "65.00",
         "description": "The purpose of a clutch brake is to stop or slow the input shaft from rotating, allowing the gears to mesh without grinding/clashing.",
         "img":"https://htmldemo.net/lukas/lukas/assets/img/product/product-details-2.png",
-        "stocks":"10000"        
+        "stocks":"10000",
+        "catagories":"Wheels and Tires"        
 
     },
     {
@@ -28,7 +31,8 @@
         "price": "95.00",
         "description": "a wheel that has a tire and rim and hubcap; used to propel the car. fifth wheel, spare - an extra car wheel and tire for a four-wheel vehicle. hub ",
         "img":"https://htmldemo.net/autima/autima/assets/img/product/product10.jpg",
-        "stocks":"10000"        
+        "stocks":"10000",
+        "catagories":"Wheels and Tires"        
 
     },
     {
@@ -36,7 +40,8 @@
         "price": "65.00",
         "description": "Automotive mirrors usually are made from first-surface chrome glass, meaning they're essentially ",
         "img":"https://upload.wikimedia.org/wikipedia/commons/d/d3/Wing_mirror.jpg",
-        "stocks":"10000"        
+        "stocks":"10000",
+        "catagories":"Body Parts"        
 
     },
     {
@@ -44,7 +49,8 @@
         "price": "25.00",
         "description": " a long, thin piece of rubber on a metal frame that moves back and forth and pushes water, snow, etc., off the surface of the window at the front of a car, truck, etc.",
         "img":"https://d1hv7ee95zft1i.cloudfront.net/custom/blog-post/original/how-to-properly-maintain-your-cars-wiper-blades-60e80b6940ba0.jpg",
-        "stocks":"10000"        
+        "stocks":"10000",
+        "catagories":"Body Parts"        
 
     },
     {
@@ -52,7 +58,8 @@
         "price": "65.00",
         "description": "The term gear stick mostly refers to the shift lever of a manual transmission, while in an automatic transmission, a similar lever is known as a gear selector. ",
         "img":"https://images.cars.com/cldstatic/wp-content/uploads/img-1684267413-1474136557144.jpg",
-        "stocks":"10000"        
+        "stocks":"10000",
+        "catagories":"Body Parts"        
 
     },
     {
@@ -60,7 +67,8 @@
         "price": "35.00",
         "description": "Buy replacement parts for your vehicle at every day low prices. Direct from Manufacturers. high quality products from Verified Wholesale Suppliers. customers satisfaction. good reputation.",
         "img":"https://cdn.fiix.io/1/articles/sparkplugs.jpg",
-        "stocks":"10000"        
+        "stocks":"10000",
+        "catagories":"Body Parts"        
 
     },
     {
@@ -68,7 +76,8 @@
         "price": "365.00",
         "description": "It is a complex machine built to convert heat from burning gas into the force that turns the road wheels.",
         "img":"https://media.istockphoto.com/id/520977101/photo/car-engine.jpg?s=612x612&w=is&k=20&c=qyX4MSOaY98ee2NsFS4yGSXjqJjAGNytWGfHCwObkrA=",
-        "stocks":"10000"        
+        "stocks":"10000",
+        "catagories":"Turbo System"        
 
     },
     {
@@ -76,7 +85,8 @@
         "price": "165.00",
         "description": "A bumper is a bar attached transversely in front of or behind a car body to prevent contact between an obstruction and the car body or to cushion the shock of collision between vehicles.",
         "img":"https://media.istockphoto.com/id/472463980/photo/three-different-car-bumpers-stacked.jpg?s=612x612&w=is&k=20&c=rNaEa3N8PtEzmY4f71SQXKrgYsubOXZL9fBzihEOTJM=",
-        "stocks":"14000"        
+        "stocks":"14000",
+        "catagories":"Body Parts"        
 
     },
     {
@@ -84,7 +94,283 @@
         "price": "97.00",
         "description": "A headlamp is a lamp attached to the front of a vehicle to illuminate the road ahead. Headlamps are also often called headlights, but in the most precise usage",
         "img":"https://motorheadbd.com/image/cache/catalog/products/2020/10/Allion-Projection-2005-6-1000x1000.jpg",
-        "stocks":"12000"        
+        "stocks":"12000",
+        "catagories":"Body Parts"        
+
+    },
+
+    {
+        "name": "Car Bumper",
+        "price": "97.00",
+        "description": "A car is a four-wheeled motorized vehicle that people use to move from one place to another (transportation).",
+        "img":"https://spnewconcept.com/WebRoot/Store9/Shops/b7e86301-0847-4ee0-932c-2e4bf67fa5b2/570D/8A49/861D/0677/ABA5/0A48/351F/C128/12969382_599119446923868_1213220536_n_1_ml.png",
+        "stocks":"12000",
+        "catagories":"Body Parts"        
+
+    },
+    {
+        "name": "Car Radiator Support",
+        "price": "67.00",
+        "description": "A car is a four-wheeled motorized vehicle that people use to move from one place to another (transportation).",
+        "img":"https://www.swiftcarparts.co.nz/1045-thickbox_default/radiator-support-top-center-2011-to-2014.jpg",
+        "stocks":"12000",
+        "catagories":"Body Parts"        
+
+    },
+    {
+        "name": "Bar Absorber",
+        "price": "97.00",
+        "description": "A car is a four-wheeled motorized vehicle that people use to move from one place to another (transportation).",
+        "img":"https://i5.walmartimages.com/asr/78386328-3ce5-4281-8ae5-3faf4856d00c.bf24be181cbe7568d7724da683e96746.jpeg",
+        "stocks":"12000",
+        "catagories":"Body Parts"        
+
+    },
+    {
+        "name": "Car Grill",
+        "price": "47.00",
+        "description": "A car is a four-wheeled motorized vehicle that people use to move from one place to another (transportation).",
+        "img":"https://images.unsplash.com/photo-1533129805601-7ed198e0d374?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "stocks":"12000",
+        "catagories":"Body Parts"        
+
+    },
+    {
+        "name": "Car Bonnet",
+        "price": "97.00",
+        "description": "A car is a four-wheeled motorized vehicle that people use to move from one place to another (transportation).",
+        "img":"https://images.unsplash.com/photo-1563288129-0c9b2e82acdc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=327&q=80",
+        "stocks":"12000",
+        "catagories":"Body Parts"        
+
+    },
+    {
+        "name": "Head Lamp",
+        "price": "77.00",
+        "description": "A car is a four-wheeled motorized vehicle that people use to move from one place to another (transportation).",
+        "img":"https://images.unsplash.com/photo-1667893478681-2fd25ec6de0c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+        "stocks":"12000",
+        "catagories":"Body Parts"        
+
+    },
+    {
+        "name": "Car Door",
+        "price": "97.00",
+        "description": "A car is a four-wheeled motorized vehicle that people use to move from one place to another (transportation).",
+        "img":"https://images.unsplash.com/photo-1554454019-6796c01e8e43?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=725&q=80",
+        "stocks":"12000",
+        "catagories":"Body Parts"        
+
+    },
+    {
+        "name": "Car Door Handle",
+        "price": "120.00",
+        "description": "A car is a four-wheeled motorized vehicle that people use to move from one place to another (transportation).",
+        "img":"https://cdn.vectorstock.com/i/1000x1000/25/58/gray-car-door-handle-vector-20512558.webp",
+        "stocks":"12000",
+        "catagories":"Body Parts"        
+
+    },
+
+    {
+        "name": "Car Guide Plate",
+        "price": "165.00",
+        "description": "The pads are attached to a brake caliper assembly that frames the rotor. Located on the rear of the vehicle, drum brakes feature wheel cylinders, brake shoes and a brake drum.",
+        "img":"https://cdn.shopify.com/s/files/1/1313/2563/products/driftbraids_fd2cf674-ed01-4f3c-8bf9-f70a6be9cd3c_1024x1024@2x.jpg?v=1617798931",
+        "stocks":"10000",
+        "catagories":"Brake Parts"        
+
+    },
+    {
+        "name": "Car strut",
+        "price": "65.00",
+        "description": "The pads are attached to a brake caliper assembly that frames the rotor. Located on the rear of the vehicle, drum brakes feature wheel cylinders, brake shoes and a brake drum.",
+        "img":"https://marvel-b1-cdn.bc0a.com/f00000000270508/s19526.pcdn.co/wp-content/uploads/2020/04/Strut-1024x512.png",
+        "stocks":"10000",
+        "catagories":"Brake Parts"        
+
+    },
+    {
+        "name": "Parking brake",
+        "price": "165.00",
+        "description": "The pads are attached to a brake caliper assembly that frames the rotor. Located on the rear of the vehicle, drum brakes feature wheel cylinders, brake shoes and a brake drum.",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/7/7c/Handbrake_lever.JPG",
+        "stocks":"10000",
+        "catagories":"Brake Parts"        
+
+    },
+    {
+        "name": "Adjuster",
+        "price": "165.00",
+        "description": "The pads are attached to a brake caliper assembly that frames the rotor. Located on the rear of the vehicle, drum brakes feature wheel cylinders, brake shoes and a brake drum.",
+        "img":"https://thumbs.dreamstime.com/b/used-part-tool-adjuster-engine-car-isolate-white-background-clipping-path-adjuster-engine-car-121659326.jpg",
+        "stocks":"10000",
+        "catagories":"Brake Parts"        
+
+    },
+    {
+        "name": "Disc brake",
+        "price": "165.00",
+        "description": "The pads are attached to a brake caliper assembly that frames the rotor. Located on the rear of the vehicle, drum brakes feature wheel cylinders, brake shoes and a brake drum.",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/7/72/Disk_brake_dsc03682.jpg",
+        "stocks":"10000",
+        "catagories":"Brake Parts"        
+
+    },
+    {
+        "name": "Shoe return spring",
+        "price": "125.00",
+        "description": "The pads are attached to a brake caliper assembly that frames the rotor. Located on the rear of the vehicle, drum brakes feature wheel cylinders, brake shoes and a brake drum.",
+        "img":"https://www.oldmoparts.com/wp-content/uploads/2020/07/UNADJUSTEDNONRAW_thumb_439.jpg",
+        "stocks":"10000",
+        "catagories":"Brake Parts"        
+
+    },
+    {
+        "name": "Shoe hold-down spring",
+        "price": "105.00",
+        "description": "The pads are attached to a brake caliper assembly that frames the rotor. Located on the rear of the vehicle, drum brakes feature wheel cylinders, brake shoes and a brake drum.",
+        "img":"https://i.ebayimg.com/images/g/TCMAAOSw3MlgagyA/s-l500.jpg",
+        "stocks":"10000",
+        "catagories":"Brake Parts"        
+
+    },
+    {
+        "name": "parking brake lever",
+        "price": "165.00",
+        "description": "The pads are attached to a brake caliper assembly that frames the rotor. Located on the rear of the vehicle, drum brakes feature wheel cylinders, brake shoes and a brake drum.",
+        "img":"https://www.shutterstock.com/image-photo/parking-brake-lever-spare-part-600w-1197537880.jpg",
+        "stocks":"10000",
+        "catagories":"Brake Parts"        
+
+    },
+
+    {
+        "name": "kenda tires",
+        "price": "165.00",
+        "description": "Wheels are the rims on which tires are affixed. Tires are rubber ovals that are installed on the wheels. The wheels of a car do not actually come into contact with the road.",
+        "img":"https://automotive.kendatire.com/media/569868/kr20a.jpg",
+        "stocks":"10000",
+        "catagories":"Wheels and Tires"        
+
+    },
+    {
+        "name": "Nitto tires",
+        "price": "165.00",
+        "description": "Wheels are the rims on which tires are affixed. Tires are rubber ovals that are installed on the wheels. The wheels of a car do not actually come into contact with the road.",
+        "img":"https://vlogicmedia1.blob.core.windows.net/tyre-images/18/b33569cb-1624-444b-9b1e-d5c456486754.png",
+        "stocks":"10000",
+        "catagories":"Wheels and Tires"        
+
+    },
+    {
+        "name": "konig wheel",
+        "price": "165.00",
+        "description": "Wheels are the rims on which tires are affixed. Tires are rubber ovals that are installed on the wheels. The wheels of a car do not actually come into contact with the road..",
+        "img":"https://konigwheels.com/wp-content/uploads/2022/05/heliogram-tm-34.png",
+        "stocks":"10000",
+        "catagories":"Wheels and Tires"        
+
+    },
+    {
+        "name": "Hoosier wheel",
+        "price": "165.00",
+        "description": "Wheels are the rims on which tires are affixed. Tires are rubber ovals that are installed on the wheels. The wheels of a car do not actually come into contact with the road.",
+        "img":"https://cdn11.bigcommerce.com/s-i8m61qcl44/images/stencil/1280x1280/products/170/6160/l_pat_bg__64238.1582034561.jpg?c=1",
+        "stocks":"10000",
+        "catagories":"Wheels and Tires"        
+
+    },
+    {
+        "name": "Mrf Tires",
+        "price": "165.00",
+        "description": "Wheels are the rims on which tires are affixed. Tires are rubber ovals that are installed on the wheels. The wheels of a car do not actually come into contact with the road.",
+        "img":"https://www.tyreexpress.ebitdit.com/storage/products/mrf-tyre/cbpmapcemifgl3gl3udfnbsjgokbslencdv6wic0-540x600.jpeg",
+        "stocks":"10000",
+        "catagories":"Wheels and Tires"        
+
+    },
+    {
+        "name": "Gazi Tires",
+        "price": "165.00",
+        "description": "Wheels are the rims on which tires are affixed. Tires are rubber ovals that are installed on the wheels. The wheels of a car do not actually come into contact with the road.",
+        "img":"http://www.gazityres.com/wp-content/uploads/2022/05/4-19.jpg",
+        "stocks":"10000",
+        "catagories":"Wheels and Tires"        
+
+    },
+    {
+        "name": "Tvs tires",
+        "price": "175.00",
+        "description": "Wheels are the rims on which tires are affixed. Tires are rubber ovals that are installed on the wheels. The wheels of a car do not actually come into contact with the road.",
+        "img":"https://m.media-amazon.com/images/I/71l4d3-5XuL.SS700.jpg",
+        "stocks":"10000",
+        "catagories":"Wheels and Tires"        
+
+    },
+    {
+        "name": "Sparco tires",
+        "price": "165.00",
+        "description": "Wheels are the rims on which tires are affixed. Tires are rubber ovals that are installed on the wheels. The wheels of a car do not actually come into contact with the road",
+        "img":"https://www.sparcowheels.com/images/products/wheels/ff1/gloss-black/01_Sparco_FF_One_BlackGlossy_360_F.jpg",
+        "stocks":"10000",
+        "catagories":"Wheels and Tires" 
+               
+
+    },
+    {
+        "name": "The compressure cover",
+        "price": "175.00",
+        "description": "In an internal combustion engine, a turbocharger (often called a turbo) is a forced induction device that is powered by the flow of exhaust gases.",
+        "img":"https://m.media-amazon.com/images/I/71l4d3-5XuL.SS700.jpg",
+        "stocks":"10000",
+        "catagories":"Turbo System"        
+
+    },
+    {
+        "name": "Wheel bearing",
+        "price": "125.00",
+        "description": "In an internal combustion engine, a turbocharger (often called a turbo) is a forced induction device that is powered by the flow of exhaust gases.",
+        "img":"https://www.oldtimer-werk.de/media/image/f5/1b/56/SW10426-01-357407256C_600x600.jpg",
+        "stocks":"10000",
+        "catagories":"Turbo System"        
+
+    },
+    {
+        "name": "Turbine housing",
+        "price": "135.00",
+        "description": "In an internal combustion engine, a turbocharger (often called a turbo) is a forced induction device that is powered by the flow of exhaust gases.",
+        "img":"https://ae01.alicdn.com/kf/H7aefbb8cd9244f599f2a3da0ff87ee12z/V-Band-Turbine-Housing-GT3076R-GTX3076R-Ceramic-Dual-Ball-Bearing-Turbo-T3-Flange-for-universal-racing.jpg_Q90.jpg_.webp",
+        "stocks":"10000",
+        "catagories":"Turbo System"        
+
+    },
+    {
+        "name": "Compressor wheel",
+        "price": "145.00",
+        "description": "In an internal combustion engine, a turbocharger (often called a turbo) is a forced induction device that is powered by the flow of exhaust gases.",
+        "img":"https://www.enginebasics.com/Advanced%20Engine%20Tuning/Images/Batmo%20Compressor%20Wheel%201.jpg",
+        "stocks":"10000",
+        "catagories":"Turbo System"        
+
+    },
+    {
+        "name": "Turbine wheel",
+        "price": "175.00",
+        "description": "In an internal combustion engine, a turbocharger (often called a turbo) is a forced induction device that is powered by the flow of exhaust gases.",
+        "img":"http://www.deloreancarshow.com/raffle-car-pictures/wheels.jpg",
+        "stocks":"10000",
+        "catagories":"Turbo System"        
+
+    },
+    {
+        "name": "Shaft assembly",
+        "price": "135.00",
+        "description": "In an internal combustion engine, a turbocharger (often called a turbo) is a forced induction device that is powered by the flow of exhaust gases.",
+        "img":"https://www.shutterstock.com/image-photo/automobile-cv-joint-propeller-shaft-600w-416900611.jpg",
+        "stocks":"10000",
+        "catagories":"Turbo System"        
 
     }
+
 ]

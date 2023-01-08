@@ -10,7 +10,6 @@ import FeaturedCategories from './FeaturedCategories'
 const Home = () => {
   return (
     <div>
-      <Header></Header>
       <Banner></Banner>
       <ServiceTitle></ServiceTitle>
       <Products></Products>
