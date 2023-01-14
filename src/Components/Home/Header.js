@@ -7,8 +7,20 @@ import { AiFillYoutube } from 'react-icons/ai'
 import { RiAccountCircleFill } from 'react-icons/ri'
 import { BsCart3 } from 'react-icons/bs'
 import { Link } from 'react-router-dom'
+import { useAuthState, useSignOut } from 'react-firebase-hooks/auth'
+import auth from '../../firebase.init'
+import Loading from '../Shared/Loading'
 
 const Header = () => {
+  const [user] = useAuthState(auth)
+  const [signOut, loading] = useSignOut(auth)
+  if (user) {
+    console.log('header user ', user)
+    console.log(user.displayName)
+  }
+  if (loading) {
+    ;<Loading></Loading>
+  }
   return (
     <div>
       <div className='bg-[#FFD54C]  pt-3'>
@@ -36,14 +48,7 @@ const Header = () => {
               <span>
                 <RiAccountCircleFill className='inline h-6 w-6 '></RiAccountCircleFill>
               </span>
-              <select className='select select-bordered  select-sm  mt-[-2px]   bg-[#FFD54C] border-none '>
-                <option disabled selected>
-                  My Account
-                </option>
-                <option>Tiny Apple</option>
-                <option>Tiny Orange</option>
-                <option>Tiny Tomato</option>
-              </select>
+              {user ? <span className='mr-5'>{user.displayName}</span> : ''}
               <hr className='hrv text-black' />
 
               <select className='select select-bordered select-sm  max-w-xs bg-[#FFD54C] border-none'>
@@ -187,9 +192,36 @@ const Header = () => {
             </ul>
           </div>
           <div className='navbar-end'>
-            <Link className='btn w-32 mr-5 bg-secondary text-black border-none hover:bg-primary'>
+            {/* <Link
+              to={'/login'}
+              className='btn w-32 mr-5 bg-secondary text-black border-none hover:bg-primary'
+            >
               Log In
-            </Link>
+            </Link> */}
+            {user ? (
+              <Link
+                to={'/dashboard'}
+                className='mr-32 btn btn-primary text-white hover:bg-black'
+              >
+                Dashboard
+              </Link>
+            ) : (
+              ''
+            )}
+            {user ? (
+              <button
+                onClick={() => signOut()}
+                className='btn btn-primary text-white w-32 hover:bg-black'
+              >
+                Sign Out
+              </button>
+            ) : (
+              <Link to={'/login'}>
+                <button className='btn bg-primary border-none text-white w-32 hover:bg-black '>
+                  log In
+                </button>
+              </Link>
+            )}
           </div>
         </div>
       </div>
